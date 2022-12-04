@@ -1,0 +1,26 @@
+#content {
+    display: block;
+    width: 100%;
+    margin: 0;
+}
+#photo {
+    display: block;
+    margin: 20px;
+}
+#photo {
+    width: 50%;
+    height: auto;
+}
+#photoIMG {
+    clip-path: circle();
+}
+#description {
+    clear: both;
+    margin: 20px;
+}
+h1 {
+    margin-bottom: 20px;
+}
+p, ul {
+    margin: 0;
+}
